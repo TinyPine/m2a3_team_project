@@ -1,4 +1,4 @@
-<<<<<<< feature-about-footer
+body{ color:red }
 /* Navigation & Header Styles */
 header {
     background-color: #333;
@@ -6,7 +6,6 @@ header {
     padding: 1rem;
     text-align: center;
 }
-=======
 /* Footer Styles */
 footer {
     background-color: #333;
@@ -17,4 +16,3 @@ footer {
     bottom: 0;
     width: 100%;
 }
->>>>>>> main
