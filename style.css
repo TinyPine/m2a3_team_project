@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 body{ color:blue }
+=======
+body { color: red; }
+>>>>>>> 98706604f2f12b18fa8ea9b51c6f70561bbbf62a
 /* Navigation & Header Styles */
 header {
     background-color: #333;
