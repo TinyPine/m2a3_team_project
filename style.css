@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body{ color:blue }
 =======
 body { color: red; }
 >>>>>>> 98706604f2f12b18fa8ea9b51c6f70561bbbf62a
+=======
+>>>>>>> parent of 9870660 (Temporary Change 4)
 /* Navigation & Header Styles */
+body{ color:blue }
 header {
     background-color: #333;
     color: white;
